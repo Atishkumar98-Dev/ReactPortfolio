@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
+  "homepage": "https://atishkumar98-dev.github.io/ReactPortfolio/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -9,6 +10,7 @@
     "bootstrap": "^5.3.3",
     "boxicons": "^2.1.4",
     "dropzone": "^6.0.0-beta.2",
+    "express": "^4.21.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
